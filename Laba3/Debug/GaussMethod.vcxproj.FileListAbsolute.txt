@@ -1,0 +1,2 @@
+D:\ProjectC\Laba3\GaussMethod\Debug\GaussMethod.exe
+D:\ProjectC\Laba3\GaussMethod\Debug\GaussMethod.pdb

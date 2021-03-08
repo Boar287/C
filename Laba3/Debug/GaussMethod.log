@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+  Main.cpp
+D:\ProjectC\Laba3\GaussMethod\Main.cpp(19,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  GaussMethod.vcxproj -> D:\ProjectC\Laba3\GaussMethod\Debug\GaussMethod.exe
